@@ -14,7 +14,6 @@ Considering digit classification on MNIST data, as a simple image understanding/
 
 ### _Sentiment analysis of sentences:_
 
-Classify a given IMDB reviews, as carrying positive (+1) or negative (0)
-sentiment toward the mentioned.
+Classifying a given IMDB reviews, as carrying positive (+1) or negative (0) sentiment toward the mentioned.
 
 **IMDB review** dataset is collection of sentences indicating positive and negative reviews with format {Sentence \t Score \n}. P.S. The dataset is taken from 'From Group to Individual Labels using Deep Features', Kotzias et. al,. KDD 2015 
